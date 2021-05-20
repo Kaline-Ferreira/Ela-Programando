@@ -1,0 +1,163 @@
+
+ul {
+  list-style-type:none ;
+  margin: auto;
+  padding: auto;
+  overflow: hidden;
+  background-color: #454747;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(10, 0, 0);
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+  font-size: medium;
+}
+
+li a:hover:not(.active) {
+  background-color: #f80b0b;
+}
+.primeiro{
+  color: #990505;
+  font-size: 24px;
+ 
+  
+}
+.Segundo{
+  font-size: bold;
+  font-family: 'Times New Roman', Times, serif;
+  color: #454747;
+
+}
+.container1{
+  background-color: rgb(227, 233, 223);
+  padding-left: 10px;
+}
+.paragrafo{
+  color: #990505;
+}
+
+.active {
+  background-color:#454747 ;
+  
+}
+.links ul a{
+  text-decoration: none;
+  color: rgb(250, 16, 16);
+
+}
+.links ul a:hover{
+  color:#cc6600;
+}
+
+.ctt{
+  color: #454747;
+  padding-left: 10px;
+}
+
+.button{
+  padding: 25;
+  background-color: #454747;
+  color: #f80b0b;
+  border: rgb(247, 157, 22);
+}
+
+.foto{
+  padding-left: 0px;
+  object-fit: cover;
+  align-items: center;
+  
+  
+  
+}
+.progress{
+  height: 50;
+}
+.conta{
+  padding-left: 20px;
+  align-items: center;
+  color: #1f2c2c;
+}
+.box1{
+  color: #1a0101;
+  padding-left: 20px;
+}
+.exp{
+ align-items: baseline;
+ font-size: 16px;
+ margin: 10px;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+.p1{
+  margin: 10px;
+  align-items: baseline;
+  font-size: 14px;
+  font-weight: 14px;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.ana{
+  padding-left: 15px;
+  font-size: 16px;
+}
+.teste{
+  padding-left: 15px;
+  
+  
+}
+.teste1{
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 15px;
+}
+.teste2{
+  font-family: 'Times New Roman', Times, serif;
+  padding-left: 15px;
+  font-size: 28px;
+  
+}
+.p{
+  padding-left: 15px;
+}
+.testes{
+  padding-left: 15px;
+}
+.city{
+  background-color: rgb(227, 233, 223);
+  border: 2px solid #4e1d1d;
+  margin: 20px;
+  
+  
+  
+}
+.cityy{
+  background-color: rgb(227, 233, 223);
+  margin: 20px;
+  border: 2px solid #4e1d1d;
+  
+}
+.yy{
+  background-color: rgb(227, 233, 223);
+  margin: 20px;
+  padding-bottom: 50px;
+  border: 2px solid #4e1d1d;
+  
+  
+}
+
+
+
+
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
